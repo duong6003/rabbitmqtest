@@ -1,0 +1,13 @@
+/src/Web/obj
+/src/Web/bin
+/src/Web/obj/Debug
+/src/Infrastructure/obj
+/src/Infrastructure/bin
+/src/Core/obj
+/src/Core/bin
+/.vs
+/.config
+/src/Web/appsettings.json
+/src/Web/Properties/*
+!/src/Web/Properties/launchSettings.json
+/src/Web/wwwroot/*
