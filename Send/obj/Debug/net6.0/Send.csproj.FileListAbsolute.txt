@@ -1,0 +1,17 @@
+C:\Duong\project\TestRabbit\Send\bin\Debug\net6.0\Send.exe
+C:\Duong\project\TestRabbit\Send\bin\Debug\net6.0\Send.deps.json
+C:\Duong\project\TestRabbit\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\Duong\project\TestRabbit\Send\bin\Debug\net6.0\Send.dll
+C:\Duong\project\TestRabbit\Send\bin\Debug\net6.0\Send.pdb
+C:\Duong\project\TestRabbit\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.dll
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\refint\Send.dll
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.pdb
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache
+C:\Duong\project\TestRabbit\Send\obj\Debug\net6.0\ref\Send.dll
